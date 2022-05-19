@@ -1,0 +1,83 @@
+header {
+    display: flex;
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    justify-content: space-between;
+    padding: 50px 24px;
+}
+
+.header-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 1000;
+    color: #F9FAF8;
+}
+
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.top-content {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    font-size: 18px;
+    color: #E5E7EB;
+    padding: 50px 24px;
+}
+
+.body-content {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 50px 24px;
+}
+
+.quote {
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+    padding: 50px 24px;
+}
+
+.signup-message {
+    display: flex;
+    background: #3882F6;
+    justify-content: center;
+    padding: 50px 24px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    background: #3882F6;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 1000;
+    color: #1F2937;
+}
+
+.info-images {
+    display: flex;
+    gap: 16px;
+}
+
+.italics {
+    font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
+}
